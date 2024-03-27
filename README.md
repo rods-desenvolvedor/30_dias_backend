@@ -17,3 +17,13 @@ O que eu consegui implementar :
 - Rota para filtrar ferramentas a partir de tags
 
 -----------------------------------------------------------------
+
+## dia 02
+### ATUALIZAÇÃO da API de ferramentas 
+
+Nesse segundo desafio, refiz a api de ferramentas utilizando a mesma arquitetura do dia 01.
+Entretanto, adicionei uma rota para deletar todas as ferramentas cadastradas.
+Como evolução para o dia de hoje, dei os primeiros passos utilizando o Swagger para documentar minha API.
+
+Futuras implementações :
+- Sistema de autenticação para as rotas onde dados são apagados.
