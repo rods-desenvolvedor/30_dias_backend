@@ -9,5 +9,5 @@ import java.util.List;
 @Repository
 public interface InvestimentoRepository extends JpaRepository<Investimento, Long> {
 
-    public List<Investimento> findInvestimentoByInvestidor(String nome);
+    public List<Investimento> findInvestimentoByInvestidor(String nomeInvestidor);
 }
